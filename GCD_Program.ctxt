@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GCD_Program
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=GCD_Program()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ GCD_Program\r\n
+comment3.params=
+comment3.target=void\ start()
+comment4.params=n\ m
+comment4.target=int\ getGCD(int,\ int)
+numComments=5
